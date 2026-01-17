@@ -1,5 +1,6 @@
-# esp32-gameboy
+# esp32-gameboy by Crafitys
 
+A free ESP32 Gameboy project!
 This repository is a port of https://github.com/lualiliu/esp32-gameboy
 With the following modifications:
 - Adaptation to ST7789 TFT screens
