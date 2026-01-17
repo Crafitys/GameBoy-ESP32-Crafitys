@@ -18,7 +18,7 @@ You will need:
 * 1x battery lipo 2.3v 1100mAh
 * all STL parts avaible on cults : 
 
-# How do I hoop up my board?
+# How wiring my esp32?
 
 Please find the wiring tutorial directly in the repository or at: 
 
